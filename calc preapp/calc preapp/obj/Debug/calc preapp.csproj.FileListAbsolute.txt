@@ -1,0 +1,7 @@
+E:\desk\calculatrice\calcul-preapp\calc preapp\calc preapp\bin\Debug\calc preapp.exe.config
+E:\desk\calculatrice\calcul-preapp\calc preapp\calc preapp\bin\Debug\calc preapp.exe
+E:\desk\calculatrice\calcul-preapp\calc preapp\calc preapp\bin\Debug\calc preapp.pdb
+E:\desk\calculatrice\calcul-preapp\calc preapp\calc preapp\obj\Debug\calc preapp.csproj.AssemblyReference.cache
+E:\desk\calculatrice\calcul-preapp\calc preapp\calc preapp\obj\Debug\calc preapp.csproj.CoreCompileInputs.cache
+E:\desk\calculatrice\calcul-preapp\calc preapp\calc preapp\obj\Debug\calc preapp.exe
+E:\desk\calculatrice\calcul-preapp\calc preapp\calc preapp\obj\Debug\calc preapp.pdb
